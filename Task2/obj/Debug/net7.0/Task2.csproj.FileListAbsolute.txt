@@ -1,0 +1,14 @@
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/bin/Debug/net7.0/Task2
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/bin/Debug/net7.0/Task2.dll
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.dll
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/ulianasokol/Desktop/HW_Recursion/Task2/obj/Debug/net7.0/ref/Task2.dll
